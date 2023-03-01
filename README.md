@@ -1,2 +1,3 @@
 # Final-Assignment
-Week 1 Assignment
+
+Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
