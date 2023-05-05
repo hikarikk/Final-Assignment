@@ -1,3 +1,2 @@
-# Final-Assignment
-
-Peer-graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard
+Applied Data Science Capstone
+Include final presentation, python codes, notebooks, screenshot, and data sets
